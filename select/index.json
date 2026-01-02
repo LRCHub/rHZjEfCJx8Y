@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ボイリング・ナイト feat. VY1V4",
+  "base_artist": "MI8k",
+  "createdAt": "2026-01-02T23:51:59.746534Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ボイリング・ナイト",
+      "artist": "MI8k",
+      "has_synced": false,
+      "path": "select/pl_01_ボイリング・ナイト_MI8k.txt"
+    }
+  ]
+}
